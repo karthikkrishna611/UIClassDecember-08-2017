@@ -26,5 +26,10 @@ To send the modified code from local repository to remote repository
 	`git push`
 	hi this is sai 
 
-
 	Sursh Kuma
+
+To create a new branch 
+	`git checkout -b branchname`
+
+To go to an existing branch 
+	`git checkout -b branchname`
