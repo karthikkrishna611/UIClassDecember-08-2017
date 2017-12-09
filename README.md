@@ -24,6 +24,7 @@ To commit the modified code into local repository
 
 To send the modified code from local repository to remote repository
 	`git push`
-	
+	hi this is sai 
 
-	Sursh Kumar
+
+	Sursh Kuma
