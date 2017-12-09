@@ -33,3 +33,11 @@ To create a new branch
 
 To go to an existing branch 
 	`git checkout branchname`
+	Step 1: From your project repository, bring in the changes and test.
+git fetch origin
+git checkout -b suresh origin/suresh
+git merge master
+Step 2: Merge the changes and update on GitHub.
+git checkout master
+git merge --no-ff suresh
+git push origin master
