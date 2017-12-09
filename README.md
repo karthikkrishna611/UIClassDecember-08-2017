@@ -24,4 +24,9 @@ To commit the modified code into local repository
 
 To send the modified code from local repository to remote repository
 	`git push`
-	
+
+To create a new branch 
+	`git checkout -b branchname`
+
+To go to an existing branch 
+	`git checkout -b branchname`
