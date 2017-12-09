@@ -32,4 +32,4 @@ To create a new branch
 	`git checkout -b branchname`
 
 To go to an existing branch 
-	`git checkout -b branchname`
+	`git checkout branchname`
