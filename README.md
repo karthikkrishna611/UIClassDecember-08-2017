@@ -26,4 +26,4 @@ To send the modified code from local repository to remote repository
 	`git push`
 	hi this is sai 
 
-	Suresh Kumar
+	Suresh Kuma
